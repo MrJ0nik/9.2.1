@@ -1,0 +1,36 @@
+﻿  UnitTest1.cpp
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 9.0\лаб 9.2.1\9.2.1\9.2.1.cpp(36,8): error C2084: function 'double calculateWFormula1(double,double)' already has a body
+  (compiling source file '/UnitTest1.cpp')
+      C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 9.0\лаб 9.2.1\9.2.1\9.2.1.cpp(23,8):
+      see previous definition of 'calculateWFormula1'
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 9.0\лаб 9.2.1\9.2.1\9.2.1.cpp(41,8): error C2084: function 'double calculateWFormula2(double,double)' already has a body
+  (compiling source file '/UnitTest1.cpp')
+      C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 9.0\лаб 9.2.1\9.2.1\9.2.1.cpp(28,8):
+      see previous definition of 'calculateWFormula2'
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 9.0\лаб 9.2.1\9.2.1\9.2.1.cpp(47,12): error C2568: ':': unable to resolve function overload
+  (compiling source file '/UnitTest1.cpp')
+      C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 9.0\лаб 9.2.1\9.2.1\9.2.1.cpp(47,12):
+      could be 'double calculateWFormula1(double,double)'
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 9.0\лаб 9.2.1\9.2.1\9.2.1.cpp(47,12): error C2440: 'return': cannot convert from 'double (__cdecl *)(double,double)' to 'double'
+  (compiling source file '/UnitTest1.cpp')
+      C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 9.0\лаб 9.2.1\9.2.1\9.2.1.cpp(47,12):
+      There is no context in which this conversion is possible
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 9.0\лаб 9.2.1\UnitTest1\UnitTest1.cpp(40,29): error C2440: 'initializing': cannot convert from 'double (__cdecl *)(double,double)' to 'double'
+  (compiling source file '/UnitTest1.cpp')
+      C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 9.0\лаб 9.2.1\UnitTest1\UnitTest1.cpp(40,29):
+      Context does not allow for disambiguation of overloaded function
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 9.0\лаб 9.2.1\UnitTest1\UnitTest1.cpp(48,29): error C2440: 'initializing': cannot convert from 'double (__cdecl *)(double,double)' to 'double'
+  (compiling source file '/UnitTest1.cpp')
+      C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 9.0\лаб 9.2.1\UnitTest1\UnitTest1.cpp(48,29):
+      Context does not allow for disambiguation of overloaded function
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 9.0\лаб 9.2.1\UnitTest1\UnitTest1.cpp(56,29): error C2440: 'initializing': cannot convert from 'double (__cdecl *)(double,double)' to 'double'
+  (compiling source file '/UnitTest1.cpp')
+      C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 9.0\лаб 9.2.1\UnitTest1\UnitTest1.cpp(56,29):
+      Context does not allow for disambiguation of overloaded function
+  
